@@ -110,3 +110,5 @@ Execute the program
 # OUPUT
 ![Screenshot from 2023-12-19 21-10-02](https://github.com/Rxhith1205/timetable/assets/147473311/7614bebb-6d23-4ef7-af27-c6eab4ac9b81)
 
+# RESULT:
+The program for creating slot timetable using basic HTML tags is executed succesfully.
